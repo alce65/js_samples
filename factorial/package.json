@@ -1,0 +1,17 @@
+{
+  "name": "js-sample",
+  "version": "1.0.0",
+  "description": "Sample of project with JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "lint": "eslint"
+  },
+  "author": "Alejandro Cerezo",
+  "license": "ISC",
+  "keywords": [],
+  "prettier": {
+    "singleQuote": true
+  }
+}
